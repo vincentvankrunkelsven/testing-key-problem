@@ -117,5 +117,5 @@ success_msg("Good work!")
 
 *** =type1
 NormalExercise
-*** =key1: 46d0449d59
+*** =key1: f5a8c48f6d
 
