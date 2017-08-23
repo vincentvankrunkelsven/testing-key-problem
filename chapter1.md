@@ -113,7 +113,9 @@ test_error()
 success_msg("Good work!")
 ```
 
---- type:TabExercise
+--- type:TabExercise key:46d0449d59
 
 *** =type1
 NormalExercise
+*** =key1: f2401514cd
+
